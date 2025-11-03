@@ -18,15 +18,15 @@ Smooth navigation and animations
 Downloadable resume and contact form
 
 ## Images / Preview
- ![HomePage Preview](../Frontend/src/assets/Home.PNG?raw=true)
+ ![HomePage Preview](../Frontend/src/assets/Home.PNG)
  ![AboutPage Preview](../Frontend/src/assets/About.PNG?raw=true)
  ![ContactPage Preview](../Frontend/src/assets/PortContact.PNG?raw=true)
 
 ## Tech Stack
-# Frontend: 
+### Frontend: 
 React.js, Tailwind CSS, JavaScript (ES6+), HTML5, CSS3
 
-# Tools: 
+### Tools: 
 Git, VS Code, npm, Figma (for UI design)
 
 ## Purpose
