@@ -1,4 +1,4 @@
-### About My Portfolio
+# About My Portfolio
 
 ## Welcome to my Frontend Developer Portfolio!
 This project showcases my skills in modern web development, focusing on clean design, performance, and responsive layouts.
