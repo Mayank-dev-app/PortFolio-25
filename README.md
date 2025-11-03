@@ -18,9 +18,9 @@ Smooth navigation and animations
 Downloadable resume and contact form
 
 ## Images / Preview
- ![HomePage Preview](../src/assets/Home.PNG)
- ![AboutPage Preview](../Frontend/src/assets/About.PNG?raw=true)
- ![ContactPage Preview](../Frontend/src/assets/PortContact.PNG?raw=true)
+ ![HomePage Preview](./src/assets/Home.PNG?raw=true)
+ ![AboutPage Preview](./src/assets/About.PNG?raw=true)
+ ![ContactPage Preview](./src/assets/PortContact.PNG?raw=true)
 
 ## Tech Stack
 ### Frontend: 

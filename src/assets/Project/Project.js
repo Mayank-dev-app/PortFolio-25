@@ -6,7 +6,7 @@ import bkfeature from "../BackryImage/BackeryHome2.PNG";
 import bkcontact from "../BackryImage/Contact.PNG";
 import bkmenu from "../BackryImage/Menu.PNG";
 
-import pf from "../pfAbout.png";
+import pf from "../pfAbout.PNG";
 
 export const projects = [
   {
