@@ -6,6 +6,11 @@ import bkfeature from "../BackryImage/BackeryHome2.PNG";
 import bkcontact from "../BackryImage/Contact.PNG";
 import bkmenu from "../BackryImage/Menu.PNG";
 
+import Ec1 from "../Ecome/Ecome1.png";
+import Ec2 from "../Ecome/Ecome2.png";
+import Ec3 from "../Ecome/Ecome3.png";
+import Ec4 from "../Ecome/Ecome4.png";
+
 import pf from "../pfAbout.PNG";
 
 export const projects = [
@@ -40,6 +45,22 @@ export const projects = [
     github: "https://github.com/Mayank-dev-app/Travel-Website-Only-Frontend-",
   },
   {
+    id: 3,
+    title: "Ecommerce Web App",
+    description: "A full-stack Ecommerce platform where users can browse products, add to cart, place orders, and admins can manage products, orders, and analytics.",
+    image: [Ec1, Ec2, Ec3, Ec4],
+    tech: ["React.js", "Node.js", "MongoDB/MySQL", "Express.js", "Stripe/Razorpay"],
+    features: [
+      "User registration, login, and profile management",
+      "Shopping cart with dynamic updates",
+      "Payment integration with Razorpay/Stripe",
+      "Admin dashboard for product, order, and analytics management",
+      "Multilingual support and responsive design"
+    ],
+    link: "https://base-ecome.netlify.app/",
+    github: "https://github.com/Mayank-dev-app/Ecom",
+  },
+  {
     id: 4,
     title: "My Old Portfolio Website",
     description: "A personal portfolio to showcase projects, skills, and achievements.",
@@ -54,4 +75,4 @@ export const projects = [
     link: "https://my-ft-portfolio.netlify.app/",
     github: "https://github.com/Mayank-dev-app/PortFolio",
   }
-]
+];
