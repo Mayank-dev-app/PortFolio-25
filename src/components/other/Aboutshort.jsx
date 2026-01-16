@@ -1,5 +1,6 @@
 
-import codingImage from '../../assets/myimage/image.png' // aap local path ya direct URL use kar sakte ho
+import codingImage from '../../assets/myimage/image.png' 
+import { Link } from 'react-router-dom'
 
 const Aboutshort = () => {
   return (
@@ -38,14 +39,15 @@ const Aboutshort = () => {
             for engineering interviews to level up my career.
           </p>
 
-          <button
+          <Link
+          to="/aboutme"
             className="px-7 py-2 rounded-2xl font-medium shadow-md 
                        bg-yellow-400 text-black border border-yellow-400
                        transition-all duration-300 
                        hover:bg-transparent hover:text-yellow-400 hover:scale-105"
           >
             Read More
-          </button>
+          </Link>
         </div>
       </div>
     </section>

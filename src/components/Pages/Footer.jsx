@@ -53,7 +53,7 @@ export default function Footer() {
           </h3>
           <div className="flex justify-center md:justify-start gap-4">
             <a
-              href="mailto:mayanksharma@example.com"
+              href="mailto:mayank.sharma.dev06@gmail.com"
               className="p-3 bg-yellow-400 text-black rounded-full hover:bg-yellow-300 transition"
             >
               <Mail className="w-5 h-5" />
@@ -67,7 +67,7 @@ export default function Footer() {
               <Github className="w-5 h-5" />
             </a>
             <a
-              href="https://linkedin.com/in/your-profile"
+              href="https://www.linkedin.com/in/mayank4627/"
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 bg-yellow-400 text-black rounded-full hover:bg-yellow-300 transition"
